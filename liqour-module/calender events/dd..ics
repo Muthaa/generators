@@ -1,0 +1,317 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+PRODID:-//VueSoft//CsvToIcs//EN
+X-WR-RELCALID:dc73e7af-aca2-4e6c-9d46-f7d80f45cfc8
+X-WR-TIMEZONE:Europe/Moscow
+BEGIN:VTIMEZONE
+TZID:E. Africa Standard Time
+BEGIN:STANDARD
+DTSTART;VALUE=DATE:20210101
+TZNAME:E. Africa Standard Time
+TZOFFSETFROM:+0300
+TZOFFSETTO:+0300
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+CATEGORIES:Holiday
+DESCRIPTION:Converted by CSV-to-ICS Converter (Free Edition).    \nGet your
+  copy at  https://csv-to-ics.com.  This notification can be removed by pur
+ chasing a license.   \n\n\nNational Rum Day
+DTEND;VALUE=DATE:20220817
+DTSTAMP:20220705T112958Z
+DTSTART;VALUE=DATE:20220816
+RRULE:FREQ=YEARLY;BYMONTH=8
+SUMMARY:National Rum Day
+UID:3a49ed47-0d11-4cb1-8a62-524c78f54ef6
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Holiday
+DESCRIPTION:Converted  by CSV-to-ICS Converter (Free Edition).   \nGet your
+  copy at  https://csv-to-ics.com.  This notification can be removed by pur
+ chasing  a license.   \n\nNational Whiskey Sour Day
+DTEND;VALUE=DATE:20220826
+DTSTAMP:20220705T112958Z
+DTSTART;VALUE=DATE:20220825
+RRULE:FREQ=YEARLY;BYMONTH=8
+SUMMARY:National Whiskey Sour Day
+UID:9cc49dad-b7ae-4475-aa25-b4bae16828f1
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Holiday
+DESCRIPTION:Converted  by CSV-to-ICS Converter (Free Edition).    \nGet you
+ r copy at https://csv-to-ics.com.  \nThis notification can be removed by p
+ urchasing a license.    \n\n\nNational Mai Tai Day
+DTEND;VALUE=DATE:20220831
+DTSTAMP:20220705T112958Z
+DTSTART;VALUE=DATE:20220830
+RRULE:FREQ=YEARLY;BYMONTH=8
+SUMMARY:National Mai Tai Day
+UID:e5080317-6eb5-446d-b054-77962b851638
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Holiday
+DESCRIPTION:Converted  by CSV-to-ICS Converter (Free Edition). \nGet your c
+ opy at  https://csv-to-ics.com. This notification can be removed by purcha
+ sing  a license.  \n\n\nNational Bourbo Heritage Month & Craft Gin Day
+DTEND;VALUE=DATE:20220902
+DTSTAMP:20220705T112958Z
+DTSTART;VALUE=DATE:20220901
+RRULE:FREQ=YEARLY;BYMONTH=9
+SUMMARY:National Bourbo Heritage Month & Craft Gin Day
+UID:8bf7a30d-9024-4863-ab89-f5804bd446b8
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Holiday
+DESCRIPTION:Converted by CSV-to-ICS Converter (Free Edition). Get your copy
+  at  https://csv-to-ics.com.  This notification can be removed by purchasi
+ ng  a license.   \n\n\nInternational Canned Cocktail Day
+DTEND;VALUE=DATE:20220911
+DTSTAMP:20220705T112958Z
+DTSTART;VALUE=DATE:20220910
+RRULE:FREQ=YEARLY;BYMONTH=9
+SUMMARY:International Canned Cocktail Day
+UID:50843a88-6d23-4b1d-acc6-c84466156ff2
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Holiday
+DESCRIPTION:Converted by CSV-to-ICS Converter (Free Edition). \nGet your co
+ py at  https://csv-to-ics.com. This notification can be removed by purchas
+ ing a license.  \n\n\nNational Cachaca Day
+DTEND;VALUE=DATE:20220914
+DTSTAMP:20220705T112958Z
+DTSTART;VALUE=DATE:20220913
+RRULE:FREQ=YEARLY;BYMONTH=9
+SUMMARY:National Cachaca Day
+UID:e6f2a484-c4a3-41ac-9197-a17769f88856
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Holiday
+DESCRIPTION:Converted by CSV-to-ICS Converter (Free Edition).   \nGet your 
+ copy at https://csv-to-ics.com. \nThis notification can be removed by purc
+ hasing a license. \n\nNational Creme de Menthe Day
+DTEND;VALUE=DATE:20220916
+DTSTAMP:20220705T112958Z
+DTSTART;VALUE=DATE:20220915
+RRULE:FREQ=YEARLY;BYMONTH=9
+SUMMARY:National Creme de Menthe Day
+UID:9545bc1e-ff47-4d2f-a895-eb488e14e690
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Holiday
+DESCRIPTION:Converted by CSV-to-ICS Converter (Free Edition).  \nGet your c
+ opy at  https://csv-to-ics.com.  This notification can be removed by purch
+ asing  a license. \n\nGrenache Day
+DTEND;VALUE=DATE:20220917
+DTSTAMP:20220705T112958Z
+DTSTART;VALUE=DATE:20220916
+RRULE:FREQ=YEARLY;BYMONTH=9
+SUMMARY:Grenache Day
+UID:2118ad69-8fc0-48ca-a696-cfef5ed6a0df
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Holiday
+DESCRIPTION:Converted by CSV-to-ICS Converter (Free Edition).   Get your co
+ py at  https://csv-to-ics.com.  This notification can be removed by purcha
+ sing a license.  \n\nNational Rum Punch Day
+DTEND;VALUE=DATE:20220921
+DTSTAMP:20220705T112958Z
+DTSTART;VALUE=DATE:20220920
+RRULE:FREQ=YEARLY;BYMONTH=9
+SUMMARY:National Rum Punch Day
+UID:87b9bb0a-8b4c-4b31-be17-6f7e1b6fa5b7
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Holiday
+DESCRIPTION:Converted by CSV-to-ICS Converter (Free Edition).   Get your co
+ py at https://csv-to-ics.com. This notification can be removed by purchasi
+ ng  a license.  \n\nNational Drink Beer Day
+DTEND;VALUE=DATE:20220929
+DTSTAMP:20220705T112958Z
+DTSTART;VALUE=DATE:20220928
+RRULE:FREQ=YEARLY;BYMONTH=9
+SUMMARY:National Drink Beer Day
+UID:7de23046-741e-429f-a687-b0ea2e54aa5f
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Holiday
+DESCRIPTION:Converted by CSV-to-ICS Converter (Free Edition). Get your copy
+  at  https://csv-to-ics.com.  This notification can be removed by purchasi
+ ng  a license.   \n\nNational Applejack Month
+DTEND;VALUE=DATE:20221002
+DTSTAMP:20220705T112958Z
+DTSTART;VALUE=DATE:20221001
+RRULE:FREQ=YEARLY;BYMONTH=10
+SUMMARY:National Applejack Month
+UID:9ee0a483-10ac-4369-a1bd-10f605e57d85
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Holiday
+DESCRIPTION:Converted  by CSV-to-ICS Converter (Free Edition).  \nGet your 
+ copy at  https://csv-to-ics.com. \nThis notification can be removed by pur
+ chasing  a license.  \n\n\nInternational Scottish Gin Day
+DTEND;VALUE=DATE:20221002
+DTSTAMP:20220705T112958Z
+DTSTART;VALUE=DATE:20221001
+RRULE:FREQ=YEARLY;BYMONTH=10
+SUMMARY:International Scottish Gin Day
+UID:0902bd7e-0f63-4e3c-97b4-3802b9a1285a
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Holiday
+DESCRIPTION:Converted  by CSV-to-ICS Converter (Free Edition).  \nGet your 
+ copy at  https://csv-to-ics.com.  This notification can be removed by purc
+ hasing  a license. \n\n\nNational Vodka Day
+DTEND;VALUE=DATE:20221005
+DTSTAMP:20220705T112958Z
+DTSTART;VALUE=DATE:20221004
+RRULE:FREQ=YEARLY;BYMONTH=10
+SUMMARY:National Vodka Day
+UID:b10261c4-dfe3-46f9-8666-72085117e928
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Holiday
+DESCRIPTION:Converted by CSV-to-ICS Converter (Free Edition).  Get your cop
+ y at https://csv-to-ics.com.  This notification can be removed by purchasi
+ ng a license.   \n\n\nInternational Gin & Tonic Day
+DTEND;VALUE=DATE:20221020
+DTSTAMP:20220705T112958Z
+DTSTART;VALUE=DATE:20221019
+RRULE:FREQ=YEARLY;BYMONTH=10
+SUMMARY:International Gin & Tonic Day
+UID:6a67e374-447c-4be5-b55f-d3ebce93437c
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Holiday
+DESCRIPTION:Converted by CSV-to-ICS Converter (Free Edition).   Get your co
+ py at  https://csv-to-ics.com. This notification can be removed by purchas
+ ing  a license.    \n\nNational Brandied Fruit Day
+DTEND;VALUE=DATE:20221021
+DTSTAMP:20220705T112958Z
+DTSTART;VALUE=DATE:20221020
+RRULE:FREQ=YEARLY;BYMONTH=10
+SUMMARY:National Brandied Fruit Day
+UID:7610f577-822b-4ece-b060-8d5980f17f78
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Holiday
+DESCRIPTION:Converted  by CSV-to-ICS Converter (Free Edition).   \nGet your
+  copy at  https://csv-to-ics.com. This notification can be removed by purc
+ hasing  a license.  \n\n\nNational Beer Day
+DTEND;VALUE=DATE:20221028
+DTSTAMP:20220705T112958Z
+DTSTART;VALUE=DATE:20221027
+RRULE:FREQ=YEARLY;BYMONTH=10
+SUMMARY:National Beer Day
+UID:2892386c-5f67-4d00-a51a-9894952a28de
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Holiday
+DESCRIPTION:Converted by CSV-to-ICS Converter (Free Edition).    \nGet your
+  copy at https://csv-to-ics.com. \nThis notification can be removed by pur
+ chasing  a license. \n\n\nNational Happy Hour Day
+DTEND;VALUE=DATE:20221109
+DTSTAMP:20220705T112958Z
+DTSTART;VALUE=DATE:20221108
+RRULE:FREQ=YEARLY;BYMONTH=11
+SUMMARY:National Happy Hour Day
+UID:000fe4ce-da53-4175-98a7-2b8fcde78f28
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Holiday
+DESCRIPTION:Converted  by CSV-to-ICS Converter (Free Edition).    Get your 
+ copy at https://csv-to-ics.com.  \nThis notification can be removed by pur
+ chasing a license.    \n\nNational Happy Hour Day
+DTEND;VALUE=DATE:20221113
+DTSTAMP:20220705T112958Z
+DTSTART;VALUE=DATE:20221112
+RRULE:FREQ=YEARLY;BYMONTH=11
+SUMMARY:National Happy Hour Day
+UID:0b3ef68c-be17-49bc-a017-def5e590c608
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Holiday
+DESCRIPTION:Converted  by CSV-to-ICS Converter (Free Edition).    Get your 
+ copy at  https://csv-to-ics.com.  \nThis notification can be removed by pu
+ rchasing a license.    \n\n\nBeauolais Nouveau Day & Australian Gin Day
+DTEND;VALUE=DATE:20221120
+DTSTAMP:20220705T112958Z
+DTSTART;VALUE=DATE:20221119
+RRULE:FREQ=YEARLY;BYMONTH=11
+SUMMARY:Beauolais Nouveau Day & Australian Gin Day
+UID:483b7f9b-2347-4b92-bd67-85a605e7e779
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Holiday
+DESCRIPTION:Converted by CSV-to-ICS Converter (Free Edition).    \nGet your
+  copy at  https://csv-to-ics.com. This notification can be removed by purc
+ hasing  a license.  \n\n\nNational Egg Nog Month
+DTEND;VALUE=DATE:20221202
+DTSTAMP:20220705T112958Z
+DTSTART;VALUE=DATE:20221201
+RRULE:FREQ=YEARLY;BYMONTH=12
+SUMMARY:National Egg Nog Month
+UID:da01ac8b-f27a-4a6b-bcd2-9d1d5c3ef535
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Holiday
+DESCRIPTION:Converted by CSV-to-ICS Converter (Free Edition).  \nGet your c
+ opy at  https://csv-to-ics.com. This notification can be removed by purcha
+ sing  a license.  \n\n\nNational Lager Day
+DTEND;VALUE=DATE:20221211
+DTSTAMP:20220705T112958Z
+DTSTART;VALUE=DATE:20221210
+RRULE:FREQ=YEARLY;BYMONTH=12
+SUMMARY:National Lager Day
+UID:b501af3f-44ac-42f0-aaad-e1349efdcd49
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Holiday
+DESCRIPTION:Converted by CSV-to-ICS Converter (Free Edition).  Get your cop
+ y at  https://csv-to-ics.com.  \nThis notification can be removed by purch
+ asing  a license. \n\nNational Screwdriver Day
+DTEND;VALUE=DATE:20221215
+DTSTAMP:20220705T112958Z
+DTSTART;VALUE=DATE:20221214
+RRULE:FREQ=YEARLY;BYMONTH=12
+SUMMARY:National Screwdriver Day
+UID:25c24423-f44c-4018-b22c-b060cc9fe453
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Holiday
+DESCRIPTION:Converted  by CSV-to-ICS Converter (Free Edition).  \nGet your 
+ copy at https://csv-to-ics.com.  This notification can be removed by purch
+ asing a license.  \n\nNational Sangria Day
+DTEND;VALUE=DATE:20221221
+DTSTAMP:20220705T112958Z
+DTSTART;VALUE=DATE:20221220
+RRULE:FREQ=YEARLY;BYMONTH=12
+SUMMARY:National Sangria Day
+UID:6114e865-3c7d-42f3-87a1-ae4abd65084c
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Holiday
+DESCRIPTION:Converted by CSV-to-ICS Converter (Free Edition).  \nGet your c
+ opy at  https://csv-to-ics.com.  This notification can be removed by purch
+ asing a license.  \n\nNational Egg Nog Day
+DTEND;VALUE=DATE:20221225
+DTSTAMP:20220705T112958Z
+DTSTART;VALUE=DATE:20221224
+RRULE:FREQ=YEARLY;BYMONTH=12
+SUMMARY:National Egg Nog Day
+UID:b65660b2-a09a-43b9-83b9-00cd81da8dec
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Holiday
+DESCRIPTION:Converted  by CSV-to-ICS Converter (Free Edition).   Get your c
+ opy at https://csv-to-ics.com. \nThis notification can be removed by purch
+ asing  a license.    \n\n\nNational Champagne Day
+DTEND;VALUE=DATE:20230101
+DTSTAMP:20220705T112958Z
+DTSTART;VALUE=DATE:20221231
+RRULE:FREQ=YEARLY;BYMONTH=12
+SUMMARY:National Champagne Day
+UID:94582dd6-37ba-4da7-91e4-b4a61bf2d808
+END:VEVENT
+END:VCALENDAR
